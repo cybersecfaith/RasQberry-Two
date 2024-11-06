@@ -7,13 +7,9 @@ assignees: ''
 
 ---
 
-# [TC-ID] : Title of the test
-
 ## Description of Test Case
 
-
 ### Precondition
-
 
 ## Test Steps
 
@@ -21,6 +17,8 @@ assignees: ''
 
 ## Summary 
 
+- [ ] Test Passed 
+- [ ] Test Failed
 
 ## Reviewer Checklist 
 
