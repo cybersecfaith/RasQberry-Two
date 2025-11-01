@@ -1,6 +1,6 @@
-# RasQberry Installation Overview
+## RasQberry Installation Overview
 
-> #### **Please Note:** The software image is currently undergoing many updates. As such, the instructions listed here may be slightly out of date. The Installation Overview will be updated shortly.
+> **Please Note:** The software image is currently undergoing many updates. As such, the instructions listed here may be slightly out of date. The Installation Overview will be updated shortly.
 
 Below you can find the list of steps that are needed to write the RasQberry Two image to
 an SD card and use it in your Rasberry Pi version 4 or 5.
@@ -36,13 +36,8 @@ Currently, modifying the username is not supported - and will not work.
 We recommend to not change any settings in “Edit Settings” in the Raspberry Pi Imager
 (step 7 - 13 below). FYI: ssh and vnc are enabled by default.
 
-![alt text](/installation-images/image.png)
 
-![alt text](/installation-images/image-1.png)
-
-![alt text](/installation-images/image-2.png)
-
-## Steps to write the RasQberry Image to your SD Card
+### Steps to write the RasQberry Image to your SD Card
 
 **! Warning:** Ensure there is no important information stored on this SD Card before following these steps.
 
